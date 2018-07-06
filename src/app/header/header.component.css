@@ -1,0 +1,14 @@
+#btn-restaurante{
+ padding-top:9px;
+ border-radius:50px;
+ width:200px;
+ height: 40px;
+}
+
+header.sticky {
+    height: 70px;
+}
+
+div.col-md-4 {
+    margin-top:7px;
+}
